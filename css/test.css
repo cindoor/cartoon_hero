@@ -1,0 +1,18 @@
+h1{
+	color: orange;
+}
+
+.small{
+	color: purple;
+}	
+
+h2{
+	color:pink;
+	font-size: 50px; 
+	text-decoration: line-through;
+}
+
+h2 span{
+	font-size: 25px;
+	background-color: darkgrey;
+}
