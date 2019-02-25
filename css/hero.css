@@ -1,0 +1,49 @@
+html, body {
+	font-family: Helvetica, sans serif;
+	margin: 0;
+}
+
+header {
+	background-color: #9fbfdf;
+	text-align: center;
+	padding: 20px;
+	color: white;
+}
+
+header img {
+	max-width: 100%;
+
+}
+
+.content {
+	padding: 10px 50px;
+	background-color: #99e699;
+	margin: 0;
+}
+
+img.big-image {
+	max-width: 100%;
+}
+
+ul {
+	list-style: circle;
+}
+
+a {
+	text-decoration: none;
+	color: orange;
+}
+
+footer {
+	background-color: #d1d1e0;
+	text-align: center;
+	padding: 10px;
+	font-size: 12px;
+
+}
+
+footer ul li {
+	text-align: center;
+	display: inline;
+	margin: 0 5px;
+}
